@@ -1,0 +1,17 @@
+{
+  "name": "Cinefilos_Oja.la",
+  "description": "Test Backbone",
+  "main": "",
+  "authors": [
+    "Carlos A <darkklitos@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "dependencies": {
+    "backbone": "^1.2.3",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.0",
+    "requirejs": "^2.1.22"
+  }
+}

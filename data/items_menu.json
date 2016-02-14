@@ -1,0 +1,44 @@
+[
+	{
+		"id": "1",
+		"url": "titanic",
+		"nombre": "titanic",
+		"genero": "Romance",
+		"imagen": "titanic.jpg"
+	},
+	{
+		"id": "2",
+		"url": "rapido_furioso_4",
+		"nombre": "Rapido y Furioso 4",
+		"genero": "Accion",
+		"imagen": "rapidoFurioso4.jpg"
+	},
+	{
+		"id": "3",
+		"url": "rapido_furioso_5",
+		"nombre": "Rapido y Furioso 5",
+		"genero": "Accion",
+		"imagen": "rapidoFurioso5.jpg"
+	},
+	{
+		"id": "4",
+		"url": "rapido_furioso_6",
+		"nombre": "Rapido y Furioso 6",
+		"genero": "Accion",
+		"imagen": "rapidoFurioso6.jpg"
+	},
+	{
+		"id": "5",
+		"url": "batman_caballero_de_la_noche",
+		"nombre": "Batman, el caballero de la noche",
+		"genero": "Accion",
+		"imagen": "batman_2.jpg"
+	},
+	{
+		"id": "6",
+		"url": "batman_el_caballero_de_la_noche_asciende",
+		"nombre": "Batman, el caballero de la noche asciende",
+		"genero": "Accion",
+		"imagen": "batman_3.jpg"
+	}
+]
